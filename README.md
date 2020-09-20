@@ -8,6 +8,6 @@ In this repository you will find:
 
 Link to main dataset: [About TLC - TLC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
-Supporting websites
-[Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+Supporting websites <br>
+[Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/) <br>
 [Markdown Tables generator - TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables)
