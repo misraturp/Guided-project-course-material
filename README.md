@@ -2,7 +2,7 @@
 
 In this repository you will find:
 
-* The notebooks ready to use after each module
+* The notebooks ready to use as they are after each module
 * Links to data
 * Links to relevant resources
 
